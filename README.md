@@ -31,7 +31,7 @@
  - Algoritmos de ML para processamento do Big Data
  - Ferramentas para o processamento do Big Data
 
- **Módulo V - Desafio final (16h)**
+ **Módulo 6 - Desafio final (16h)**
 
  - Entrega do Desafio Final
 
